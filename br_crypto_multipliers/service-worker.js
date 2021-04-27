@@ -294,7 +294,7 @@ define("./service-worker.js",['./workbox-c5a866fd'], function (workbox) { 'use s
     "revision": "b0d7fdbcf048597e8807688136243888"
   }, {
     "url": "/br_crypto_multipliers/css/smartcharts.css",
-    "revision": "dd1a38ebc4aa3c4d18671c69bfcfafa7"
+    "revision": "3ace4bdfd2f0c61766f9c70d85db9d22"
   }, {
     "url": "/br_crypto_multipliers/css/trader.main.css",
     "revision": "01a72b35032c5887985b95c5d649199a"
@@ -746,7 +746,7 @@ define("./service-worker.js",['./workbox-c5a866fd'], function (workbox) { 'use s
     "url": "/br_crypto_multipliers/js/core.main~components_src_components_l.82833c9c8f16f369462f.js",
     "revision": null
   }, {
-    "url": "/br_crypto_multipliers/js/core.main~s.0e7024893df847b5adc9.js",
+    "url": "/br_crypto_multipliers/js/core.main~s.11ccd94170cbc48e39bd.js",
     "revision": null
   }, {
     "url": "/br_crypto_multipliers/js/core.reality-check-modal.ded4d05021558bdd8710.js",
